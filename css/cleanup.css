@@ -22,3 +22,9 @@ div#wall .parent #tag-5.slick {
     z-index: 3;
     display: block;
 }
+
+div#wall div.parent div:last-child div#tag-6 {
+    background: url(../images/tag-6.png) no-repeat;
+    z-index: 2;
+    display: block;
+}
